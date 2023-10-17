@@ -50,7 +50,7 @@ If you have any questions or need further assistance, please feel free to reach 
 - Email: [Your Email Address](mailto:youremail@example.com)
 
 ## Walkthrough Video
-For a demonstration of how to use this README generator, please watch the [walkthrough video](https://drive.google.com/file/d/19Nlt81XNWTcidRmOxVqAn7DVjZUtoFyN/view).
+For a demonstration of how to use this README generator, please watch the [walkthrough video](https://drive.google.com/file/d/1mPNAlsewinONBI_nHmc1lKVz80aHP9RF/view).
 
 ---
 
